@@ -1,0 +1,11 @@
+{
+  "name": "requirejs-handlebars-less-webapp-starter",
+  "dependencies": {
+    "requirejs": "~2.1.5",
+    "jquery": ">= 1.9.0",
+    "qunit": "~1.11.0",
+    "weather": "~0.2.3",
+    "velocity":"~0.11.5",
+    "require-handlebars-plugin":"~0.8.1"
+  }
+}

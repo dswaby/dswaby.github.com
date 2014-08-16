@@ -1,0 +1,35 @@
+{
+  "name": "weather",
+  "main": [
+    "weather.js"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "test",
+    "src",
+    "bower.json",
+    ".gitignore",
+    "CONTRIBUTING.md",
+    "Gruntfile.js",
+    "package.json",
+    "weather.jquery.json"
+  ],
+  "version": "0.2.3",
+  "dependencies": {
+    "jquery": ">= 1.8.0"
+  },
+  "devDependencies": {
+    "qunit": "~1.11.0",
+    "jquery": ">= 1.8.0"
+  },
+  "homepage": "https://github.com/danheberden/jquery-weather",
+  "_release": "0.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.3",
+    "commit": "8a632edd50e9e84d9211e526260d1ef117fdf486"
+  },
+  "_source": "git://github.com/danheberden/jquery-weather.git",
+  "_target": "~0.2.3",
+  "_originalSource": "weather"
+}

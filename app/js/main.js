@@ -28,7 +28,6 @@ define(["jquery","hbs!../../app/templates/app_template","hbs!../../app/templates
       url: 'https://api.github.com/users/dswaby/repos',
       success: function(repo){
         if (repo.length) {
-          console.log(repo);
           var repoHtml = reposTpl(repo);
           $("#repos").html(repoHtml);
         }
